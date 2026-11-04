@@ -6,6 +6,8 @@ public class LibraryWelcome {
     public static void main(String[] args) {
 
         System.out.println("Library application starting...");
-
+        
+        System.out.println("Welcome to the Library Management System!");
     }
 }
+
