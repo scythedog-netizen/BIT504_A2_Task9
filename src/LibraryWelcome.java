@@ -8,6 +8,8 @@ public class LibraryWelcome {
         System.out.println("Library application starting...");
         
         System.out.println("Welcome to the Library Management System!");
+
+        System.out.println("Please choose an option from the menu.");
     }
 }
 
